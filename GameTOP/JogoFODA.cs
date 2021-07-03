@@ -7,7 +7,7 @@ namespace GameTOP
         private readonly ijogador _jogadorA;
         private readonly ijogador _jogadorB;
 
-        public JogoFODA(ijogador jogadorA, ijogador jogadorB)
+        public JogoFODA(ijogador jogadorA, ijogador jogadorB, Lib.Jogador3 jogador3)
         {
             _jogadorA = jogadorA;
             _jogadorB = jogadorB;
